@@ -1,4 +1,6 @@
 Acesse o site para jogar: https://mario-bros-ionic.netlify.app 
+Pagina respansiva
+Feito em 2024 no começo do 3 Semestre de ADS
 
 Ao clonar o projeto ou baixar a pasta zip, siga os passos abaixo:
 Abra a pasta do projeto. 
